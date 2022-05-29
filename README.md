@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditi...
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Full Stack Development project
 - 📫 How to reach me aditi_dewangan10
 
 <!---
